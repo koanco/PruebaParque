@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">PruebaParque</string>
+    <string name="Ingreso">Ingrese el texto</string>
+    <string name="Ingresar">Ingresar</string>
+    <string name="Finalizar">Finalizar</string>
+    <string name="Number">Números:  </string>
+    <string name="Texto">Texto:  </string>
+    <string name="Suma">Suma(contador+número)=: </string>
+    <string name="Resta1">Resta(contador-número): </string>
+    <string name="Resta2">Resta(número-contador): </string>
+    <string name="Producto">Producto(número*contador): </string>
+    <string name="Division">División(contador/número): </string>
+    <string name="Division2">División(número/contador): </string>
+    <string name="Contador"> Valor actual del contador: </string>
+    <string name="soloNumeros">Usted ha ingresado solo números, por lo tanto, se muestran las operaciones ariméticas con el contador </string>
+    <string name="soloTexto">Usted ha ingresado solo texto, por lo tanto, se muestra el texto concatenado con el contador</string>
+    <string name="combinado">Usted ha ingresado texto y números, por lo tanto se muestra por separado cada uno</string>
+
+    
+
+</resources>
